@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1548
+
+This plugin is superseded by vimscript#1609.
+
+Added the new Ada 2005 keywords.
+
+Make completion optional. This is usefull if you have tag files created with "gnat xref -v" in which case the builin completion works better.
+
+Reports errors to: http://code.google.com/p/vim-scripts/issues/list
+Discuss improvements on: http://groups.google.com/group/vim_scripts
+
